@@ -1,5 +1,5 @@
 # 💫 About Me:
-/I am currently working on log management/
+/I am devops & infrastructure engineer/
 
 
 ## 🌐 Socials:
